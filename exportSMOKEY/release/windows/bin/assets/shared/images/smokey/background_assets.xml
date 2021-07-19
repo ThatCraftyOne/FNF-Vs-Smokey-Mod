@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background0000" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0001" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0002" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0003" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0004" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0005" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0006" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0007" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0008" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0009" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0010" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0011" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0012" x="0" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0013" x="0" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0014" x="0" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0015" x="1280" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0016" x="1280" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0017" x="1280" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0018" x="2560" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0019" x="2560" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0020" x="2560" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0021" x="0" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0022" x="0" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0023" x="1280" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0024" x="1280" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0025" x="2560" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0026" x="2560" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0027" x="0" y="2100" width="1280" height="700"/>
+	<SubTexture name="Background0028" x="0" y="2100" width="1280" height="700"/>
+	<SubTexture name="Background0029" x="0" y="2100" width="1280" height="700"/>
+	<SubTexture name="Background0030" x="0" y="2100" width="1280" height="700"/>
+	<SubTexture name="Background0031" x="2560" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0032" x="2560" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0033" x="1280" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0034" x="1280" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0035" x="0" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0036" x="0" y="1400" width="1280" height="700"/>
+	<SubTexture name="Background0037" x="2560" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0038" x="2560" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0039" x="2560" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0040" x="1280" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0041" x="1280" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0042" x="1280" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0043" x="0" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0044" x="0" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0045" x="0" y="700" width="1280" height="700"/>
+	<SubTexture name="Background0046" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0047" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0048" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0049" x="2560" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0050" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0051" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0052" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0053" x="1280" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0054" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0055" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0056" x="0" y="0" width="1280" height="700"/>
+	<SubTexture name="Background0057" x="0" y="0" width="1280" height="700"/>
+</TextureAtlas>

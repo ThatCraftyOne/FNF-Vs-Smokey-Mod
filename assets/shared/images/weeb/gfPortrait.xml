@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DialogueGirlfriend0000" x="0" y="0" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0001" x="0" y="0" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0002" x="3200" y="0" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0003" x="3200" y="0" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0004" x="0" y="3200" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0005" x="0" y="3200" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0006" x="3200" y="3200" width="3200" height="3200"/>
+	<SubTexture name="DialogueGirlfriend0007" x="3200" y="3200" width="3200" height="3200"/>
+</TextureAtlas>

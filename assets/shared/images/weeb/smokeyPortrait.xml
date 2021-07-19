@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smokeyPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DialogueSmokey0000" x="0" y="0" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0001" x="0" y="0" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0002" x="800" y="0" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0003" x="800" y="0" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0004" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0005" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0006" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="DialogueSmokey0007" x="800" y="800" width="800" height="800"/>
+</TextureAtlas>
